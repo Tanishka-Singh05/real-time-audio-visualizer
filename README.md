@@ -1,5 +1,8 @@
 # 🎓 real-time-audio-visualizer
 📌 Real-Time Audio-Driven Image Display An interactive learning tool that converts real-time speech into text and dynamically displays relevant images. Powered by Whisper AI for speech recognition, spaCy for keyword extraction, and Streamlit for a seamless UI. Ideal for education, presentations, and live demonstrations. 
+
+### 📷Project Screenshots
+
 ## 🚀 Features
 - 🎤 **Real-time Speech Recognition** using Whisper AI
 - 🔍 **Keyword Extraction** with spaCy NLP
@@ -39,5 +42,18 @@
 ### 🔧 Installation Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/interactive-learning-assistant.git
+   git clone https://github.com/Tanishka-Singh05/real-time-audio-visualizer.git
    cd interactive-learning-assistant
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+3. **Download spaCy model**
+   ```bash
+   python -m spacy download en_core_web_sm
+4. **Run the Application**
+   ```bash
+   streamlit run app.py
+
+### 🤝 Contributing
+Want to improve this project? Feel free to fork, submit issues, or create pull requests!
+
