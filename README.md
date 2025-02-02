@@ -2,6 +2,8 @@
 📌 Real-Time Audio-Driven Image Display An interactive learning tool that converts real-time speech into text and dynamically displays relevant images. Powered by Whisper AI for speech recognition, spaCy for keyword extraction, and Streamlit for a seamless UI. Ideal for education, presentations, and live demonstrations. 
 
 ### 📷Project Screenshots
+![WhatsApp Image 2025-01-15 at 20 27 37_e3eedac9](https://github.com/user-attachments/assets/a3e86317-4935-42ac-9d7e-a07a9d7f90ae)
+
 
 ## 🚀 Features
 - 🎤 **Real-time Speech Recognition** using Whisper AI
