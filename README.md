@@ -56,6 +56,10 @@
    ```bash
    streamlit run app.py
 
+## 🙌 Contributors
+- [Tanishka Singh](https://github.com/Tanishka-Singh05)
+- [Purvi Solanki](https://github.com/Purvi-Solanki)
+
 ### 🤝 Contributing
 Want to improve this project? Feel free to fork, submit issues, or create pull requests!
 
